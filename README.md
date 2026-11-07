@@ -6,9 +6,11 @@ Repositório público especial (`.github`) com arquivos padrão da conta. O GitH
 
 - [`SECURITY.md`](SECURITY.md) — política de segurança padrão (como reportar vulnerabilidades)
 - [`SUPPORT.md`](SUPPORT.md) — onde pedir ajuda (padrão da conta)
+- [`CONTRIBUTING.md`](CONTRIBUTING.md) — como contribuir (padrão da conta)
+- [`.github/pull_request_template.md`](.github/pull_request_template.md) — template padrão de pull request
 
 ## Notas
 
 - Este repositório precisa permanecer **público** para os defaults funcionarem.
 - Não altere a visibilidade sem aprovação explícita.
-- Repositórios com `SECURITY.md` ou `SUPPORT.md` próprio continuam usando o arquivo local.
+- Repositórios com `SECURITY.md`, `SUPPORT.md`, `CONTRIBUTING.md` ou template de PR próprio continuam usando o arquivo local.
