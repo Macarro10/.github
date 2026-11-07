@@ -8,9 +8,10 @@ Repositório público especial (`.github`) com arquivos padrão da conta. O GitH
 - [`SUPPORT.md`](SUPPORT.md) — onde pedir ajuda (padrão da conta)
 - [`CONTRIBUTING.md`](CONTRIBUTING.md) — como contribuir (padrão da conta)
 - [`.github/pull_request_template.md`](.github/pull_request_template.md) — template padrão de pull request
+- [`.github/ISSUE_TEMPLATE/`](.github/ISSUE_TEMPLATE/) — chooser de issues (contact links + template de dúvida)
 
 ## Notas
 
 - Este repositório precisa permanecer **público** para os defaults funcionarem.
 - Não altere a visibilidade sem aprovação explícita.
-- Repositórios com `SECURITY.md`, `SUPPORT.md`, `CONTRIBUTING.md` ou template de PR próprio continuam usando o arquivo local.
+- Repositórios com `SECURITY.md`, `SUPPORT.md`, `CONTRIBUTING.md` ou templates próprios continuam usando o arquivo local.

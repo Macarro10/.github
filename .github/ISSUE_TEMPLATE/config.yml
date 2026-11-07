@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Pedir ajuda (SUPPORT)
+    url: https://github.com/Macarro10/.github/blob/main/SUPPORT.md
+    about: Onde pedir ajuda — padrão da conta Macarro10
+  - name: Relatar vulnerabilidade (SECURITY)
+    url: https://github.com/Macarro10/.github/blob/main/SECURITY.md
+    about: Política de segurança — não use issue pública com detalhes
+  - name: Como contribuir (CONTRIBUTING)
+    url: https://github.com/Macarro10/.github/blob/main/CONTRIBUTING.md
+    about: Guia padrão de contribuição da conta
