@@ -8,7 +8,7 @@ Repositório público especial (`.github`) com arquivos padrão da conta. O GitH
 - [`SUPPORT.md`](SUPPORT.md) — onde pedir ajuda (padrão da conta)
 - [`CONTRIBUTING.md`](CONTRIBUTING.md) — como contribuir (padrão da conta)
 - [`.github/pull_request_template.md`](.github/pull_request_template.md) — template padrão de pull request
-- [`.github/ISSUE_TEMPLATE/`](.github/ISSUE_TEMPLATE/) — chooser de issues (contact links + template de dúvida)
+- [`.github/ISSUE_TEMPLATE/`](.github/ISSUE_TEMPLATE/) — chooser de issues (contact links + templates de dúvida e de problema/bug)
 
 ## Notas
 
