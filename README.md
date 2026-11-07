@@ -5,9 +5,10 @@ Repositório público especial (`.github`) com arquivos padrão da conta. O GitH
 ## Arquivos neste repositório
 
 - [`SECURITY.md`](SECURITY.md) — política de segurança padrão (como reportar vulnerabilidades)
+- [`SUPPORT.md`](SUPPORT.md) — onde pedir ajuda (padrão da conta)
 
 ## Notas
 
 - Este repositório precisa permanecer **público** para os defaults funcionarem.
 - Não altere a visibilidade sem aprovação explícita.
-- Repositórios com `SECURITY.md` próprio continuam usando o arquivo local.
+- Repositórios com `SECURITY.md` ou `SUPPORT.md` próprio continuam usando o arquivo local.
