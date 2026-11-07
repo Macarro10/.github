@@ -7,6 +7,7 @@ Este arquivo é o padrão de Macarro10 para repositórios que ainda não têm um
 1. Leia o README do repositório e, se existir, o `SUPPORT.md` e o `SECURITY.md`.
 2. Prefira mudanças pequenas, com mensagem de commit clara.
 3. Não abra issue pública com segredos, tokens, `.env`, chaves, dados pessoais ou detalhes sensíveis de verificação.
+4. Para dúvidas ou problemas, use os [templates de issue](https://github.com/Macarro10/.github/tree/main/.github/ISSUE_TEMPLATE) padrão da conta quando o repositório não tiver os próprios.
 
 ## Pull requests
 
